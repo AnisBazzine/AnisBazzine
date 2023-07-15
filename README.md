@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AnisBazzine
 - 👀 I’m Interested In app development
 - 🌱 I’m currently learning Mobile app development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Telegram](https://t.me/anismohamed/). [Email](bazzinemohamed01@gamil.com)
 
 <!---
